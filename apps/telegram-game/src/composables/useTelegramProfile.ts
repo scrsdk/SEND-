@@ -12,7 +12,7 @@ type TelegramProfileWithProfile = TelegramProfile & {
 }
 
 export const useApiFetch = createFetch({
-  baseUrl: 'https://chatgame.space/api/telegram',
+  baseUrl: 'https://melvek.ru/api/telegram',
   options: {
     beforeFetch({ options }) {
       const { initDataRaw } = retrieveLaunchParams()
