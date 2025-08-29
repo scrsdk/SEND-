@@ -3,10 +3,10 @@
     <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 translate-y-1/5">
       <div class="flex flex-col justify-center items-center gap-0 text-white">
         <p class="text-lg font-semibold">
-          hmbanan666's
+          MLS PRODUCTION 
         </p>
         <p class="text-4xl font-semibold">
-          Woodlands
+          Tonomo: Grove
         </p>
 
         <Component :is="LucideLoaderCircle" class="mt-6 w-8 h-8 animate-spin opacity-40" />
